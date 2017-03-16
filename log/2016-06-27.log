@@ -1,0 +1,904 @@
+2016-07-03 10:26:11,141 DEBUG read configure file successfully
+2016-07-03 10:26:11,359 DEBUG index( dns ) not exists,it will be created
+2016-07-03 10:26:11,892 DEBUG index( dns ) successfully create and init settings
+2016-07-03 10:26:11,902 DEBUG type( dns20160627 : querydata ) not exists,it will be created
+2016-07-03 10:26:12,337 DEBUG type( dns20160627 : querydata ) successfully create and init settings
+2016-07-03 10:26:12,340 DEBUG type( dns20160627 : dnsdata ) not exists,it will be created
+2016-07-03 10:26:12,502 DEBUG type( dns20160627 : dnsdata ) successfully create and init settings
+2016-07-03 10:26:12,578 DEBUG start analysing file and putting data into elasticsearch
+2016-07-03 10:26:43,829 DEBUG deal line: 50000
+2016-07-03 10:26:51,538 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:27:10,005 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:27:15,123 DEBUG deal line: 100000
+2016-07-03 10:27:16,704 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:27:18,329 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:27:32,111 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:27:44,714 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:27:45,572 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:45,572 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:45,573 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:45,574 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:45,574 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:45,576 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:45,610 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:45,612 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:45,612 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:45,687 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:45,688 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:45,688 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:45,691 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:45,794 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:45,802 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:45,846 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:45,847 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:45,847 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:45,850 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:45,855 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:45,956 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:45,970 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:45,998 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:46,086 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:46,090 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:46,126 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:46,204 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:46,205 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:46,205 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:46,206 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:46,273 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:46,312 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:46,359 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:46,369 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:46,383 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:46,385 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:46,386 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:46,414 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:46,611 DEBUG deal line: 150000
+2016-07-03 10:27:46,822 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:46,830 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:46,836 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:46,840 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:27:46,840 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:27:48,481 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:07,739 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:09,393 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:17,100 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:18,159 DEBUG deal line: 200000
+2016-07-03 10:28:23,806 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:27,425 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:31,585 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:32,900 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:36,030 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:40,231 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:41,897 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:49,183 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:49,192 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:51,121 DEBUG deal line: 250000
+2016-07-03 10:28:51,206 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:28:52,159 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:29:01,709 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:29:03,774 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:29:13,705 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:29:17,972 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:29:22,436 DEBUG deal line: 300000
+2016-07-03 10:29:26,419 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:29:31,665 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:29:32,944 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:29:38,917 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:29:41,490 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:29:43,027 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:29:43,027 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,028 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,068 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,082 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,084 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,085 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,139 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:29:43,159 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,162 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,163 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:29:43,173 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,209 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:29:43,228 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,230 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,231 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,232 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:29:43,318 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,321 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,322 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:29:43,326 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,356 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,395 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,415 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,443 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,489 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,492 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:29:43,492 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,493 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,495 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,505 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,531 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:29:43,652 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:29:43,662 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,663 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,732 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,737 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:29:43,743 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,796 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:29:43,799 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,800 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:43,808 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:29:44,199 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:29:46,051 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:29:52,981 DEBUG deal line: 350000
+2016-07-03 10:29:55,053 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:30:06,300 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:30:18,146 ERROR My Error : Error unpacking DNSQuestion [offset=33]: Invalid label <��װ��¼</p>>
+2016-07-03 10:30:21,706 ERROR My Error : Error unpacking DNSQuestion [offset=38]: Invalid label <<p>�Է�����<a>
+2016-07-03 10:30:22,067 ERROR My Error : Error unpacking DNSQuestion [offset=38]: Invalid label <<p>�Է�����<a>
+2016-07-03 10:30:23,572 DEBUG deal line: 400000
+2016-07-03 10:30:32,847 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:30:46,452 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:30:48,565 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:30:53,828 DEBUG deal line: 450000
+2016-07-03 10:31:24,519 DEBUG deal line: 500000
+2016-07-03 10:31:25,866 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:31:35,485 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:31:35,486 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,491 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,492 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,497 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:31:35,502 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,503 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,532 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,593 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,594 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,599 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:31:35,600 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,685 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,687 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,687 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:31:35,691 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:31:35,692 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,770 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,775 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:31:35,775 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,840 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,843 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:31:35,843 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:35,920 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:31:35,921 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:36,031 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:31:36,145 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:36,150 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:36,164 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:31:36,282 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:36,284 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:37,312 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:37,313 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:37,314 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:37,317 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:31:39,239 ERROR My Error : Error unpacking DNSQuestion [offset=24]: Invalid label <��</td>>
+2016-07-03 10:31:39,505 ERROR My Error : Error unpacking DNSQuestion [offset=24]: Invalid label <��</td>>
+2016-07-03 10:31:45,320 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:31:48,535 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:31:48,580 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:31:50,872 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:31:55,789 DEBUG deal line: 550000
+2016-07-03 10:32:01,608 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:02,341 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:03,005 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:08,131 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:10,635 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:17,762 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:23,256 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:24,380 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:24,614 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:27,161 DEBUG deal line: 600000
+2016-07-03 10:32:40,722 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:42,568 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:42,723 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:46,282 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:49,735 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:51,513 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:32:58,358 DEBUG deal line: 650000
+2016-07-03 10:32:58,877 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:33:01,185 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:33:07,278 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:33:07,848 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:07,850 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:07,851 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:07,855 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:07,856 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:33:07,856 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:07,858 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:07,905 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:07,906 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:33:07,908 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:07,962 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:33:07,966 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:07,969 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:33:07,969 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:07,974 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,030 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,031 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:33:08,032 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,033 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,055 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,067 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,069 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,072 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,073 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,125 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,131 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,135 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:33:08,135 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,136 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,182 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,183 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,185 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,365 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:33:08,366 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:08,371 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:09,621 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:33:11,890 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:11,893 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:11,895 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:33:12,351 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:33:13,305 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:33:17,455 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:33:23,672 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:33:25,929 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:33:29,461 DEBUG deal line: 700000
+2016-07-03 10:33:35,337 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:33:35,818 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:33:44,594 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:33:49,617 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:33:55,351 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:34:00,350 DEBUG deal line: 750000
+2016-07-03 10:34:31,388 DEBUG deal line: 800000
+2016-07-03 10:34:35,824 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:34:40,300 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:34:44,404 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:34:46,891 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:34:46,891 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:46,894 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:46,903 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:46,962 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:46,975 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:47,010 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:34:47,012 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:47,013 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:34:47,014 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:34:47,018 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:47,028 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:47,057 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:34:47,059 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:47,070 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:47,072 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:47,095 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:34:47,097 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:47,098 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:47,136 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:47,185 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:47,246 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:47,248 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:34:47,250 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:34:47,253 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:47,261 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:52,060 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:34:54,980 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:35:03,733 DEBUG deal line: 850000
+2016-07-03 10:35:12,767 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:35:21,847 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:35:34,343 DEBUG deal line: 900000
+2016-07-03 10:35:40,954 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:35:46,103 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:35:51,447 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:35:52,784 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:35:53,653 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:35:54,128 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:35:57,896 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:36:01,083 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:36:04,811 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:36:04,831 DEBUG deal line: 950000
+2016-07-03 10:36:05,277 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:36:12,414 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:36:20,918 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:20,919 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:20,920 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:20,921 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:20,922 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:20,922 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:20,923 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:20,924 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:20,970 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:20,971 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:20,972 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:20,973 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:20,974 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,024 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,025 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,025 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,026 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,026 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,027 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,029 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,031 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,100 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,101 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,102 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,104 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,106 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,145 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,146 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,147 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,147 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,148 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,150 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,150 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,193 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,196 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,196 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,197 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,255 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,257 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,257 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,258 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,307 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:21,308 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,381 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:21,382 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:23,807 ERROR My Error : Error unpacking CNAME [offset=510]: Not enough bytes [offset=510,remaining=2,requested=3]
+2016-07-03 10:36:23,812 ERROR My Error : Error unpacking CNAME [offset=511]: Not enough bytes [offset=511,remaining=1,requested=3]
+2016-07-03 10:36:30,196 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:36:33,066 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:36:33,520 ERROR My Error : Error unpacking RR [offset=18]: Not enough bytes [offset=18,remaining=0,requested=10]
+2016-07-03 10:36:36,192 DEBUG deal line: 1000000
+2016-07-03 10:36:36,192 DEBUG finish analyse: /home/metadata/dns/2016-06-27/2016-06-27-000728.txt
+2016-07-03 10:36:38,528 DEBUG dns20160627 : querydata pushed: 2000
+2016-07-03 10:36:39,816 DEBUG dns20160627 : querydata pushed: 4000
+2016-07-03 10:36:41,122 DEBUG dns20160627 : querydata pushed: 6000
+2016-07-03 10:36:42,370 DEBUG dns20160627 : querydata pushed: 8000
+2016-07-03 10:36:43,540 DEBUG dns20160627 : querydata pushed: 10000
+2016-07-03 10:36:44,700 DEBUG dns20160627 : querydata pushed: 12000
+2016-07-03 10:36:45,835 DEBUG dns20160627 : querydata pushed: 14000
+2016-07-03 10:36:47,224 DEBUG dns20160627 : querydata pushed: 16000
+2016-07-03 10:36:48,871 DEBUG dns20160627 : querydata pushed: 18000
+2016-07-03 10:36:49,952 DEBUG dns20160627 : querydata pushed: 20000
+2016-07-03 10:36:51,117 DEBUG dns20160627 : querydata pushed: 22000
+2016-07-03 10:36:52,574 DEBUG dns20160627 : querydata pushed: 24000
+2016-07-03 10:36:53,772 DEBUG dns20160627 : querydata pushed: 26000
+2016-07-03 10:36:55,010 DEBUG dns20160627 : querydata pushed: 28000
+2016-07-03 10:36:56,559 DEBUG dns20160627 : querydata pushed: 30000
+2016-07-03 10:36:57,911 DEBUG dns20160627 : querydata pushed: 32000
+2016-07-03 10:36:59,257 DEBUG dns20160627 : querydata pushed: 34000
+2016-07-03 10:37:00,534 DEBUG dns20160627 : querydata pushed: 36000
+2016-07-03 10:37:01,923 DEBUG dns20160627 : querydata pushed: 38000
+2016-07-03 10:37:03,223 DEBUG dns20160627 : querydata pushed: 40000
+2016-07-03 10:37:04,566 DEBUG dns20160627 : querydata pushed: 42000
+2016-07-03 10:37:05,963 DEBUG dns20160627 : querydata pushed: 44000
+2016-07-03 10:37:07,279 DEBUG dns20160627 : querydata pushed: 46000
+2016-07-03 10:37:08,554 DEBUG dns20160627 : querydata pushed: 48000
+2016-07-03 10:37:10,107 DEBUG dns20160627 : querydata pushed: 50000
+2016-07-03 10:37:11,240 DEBUG dns20160627 : querydata pushed: 52000
+2016-07-03 10:37:12,465 DEBUG dns20160627 : querydata pushed: 54000
+2016-07-03 10:37:13,679 DEBUG dns20160627 : querydata pushed: 56000
+2016-07-03 10:37:14,969 DEBUG dns20160627 : querydata pushed: 58000
+2016-07-03 10:37:16,159 DEBUG dns20160627 : querydata pushed: 60000
+2016-07-03 10:37:17,421 DEBUG dns20160627 : querydata pushed: 62000
+2016-07-03 10:37:18,646 DEBUG dns20160627 : querydata pushed: 64000
+2016-07-03 10:37:19,884 DEBUG dns20160627 : querydata pushed: 66000
+2016-07-03 10:37:21,163 DEBUG dns20160627 : querydata pushed: 68000
+2016-07-03 10:37:22,566 DEBUG dns20160627 : querydata pushed: 70000
+2016-07-03 10:37:24,090 DEBUG dns20160627 : querydata pushed: 72000
+2016-07-03 10:37:25,433 DEBUG dns20160627 : querydata pushed: 74000
+2016-07-03 10:37:26,756 DEBUG dns20160627 : querydata pushed: 76000
+2016-07-03 10:37:28,214 DEBUG dns20160627 : querydata pushed: 78000
+2016-07-03 10:37:29,446 DEBUG dns20160627 : querydata pushed: 80000
+2016-07-03 10:37:30,802 DEBUG dns20160627 : querydata pushed: 82000
+2016-07-03 10:37:32,056 DEBUG dns20160627 : querydata pushed: 84000
+2016-07-03 10:37:33,165 DEBUG dns20160627 : querydata pushed: 86000
+2016-07-03 10:37:34,347 DEBUG dns20160627 : querydata pushed: 88000
+2016-07-03 10:37:35,500 DEBUG dns20160627 : querydata pushed: 90000
+2016-07-03 10:37:36,833 DEBUG dns20160627 : querydata pushed: 92000
+2016-07-03 10:37:37,978 DEBUG dns20160627 : querydata pushed: 94000
+2016-07-03 10:37:39,123 DEBUG dns20160627 : querydata pushed: 96000
+2016-07-03 10:37:40,359 DEBUG dns20160627 : querydata pushed: 98000
+2016-07-03 10:37:41,623 DEBUG dns20160627 : querydata pushed: 100000
+2016-07-03 10:37:43,128 DEBUG dns20160627 : querydata pushed: 102000
+2016-07-03 10:37:44,346 DEBUG dns20160627 : querydata pushed: 104000
+2016-07-03 10:37:45,477 DEBUG dns20160627 : querydata pushed: 106000
+2016-07-03 10:37:46,780 DEBUG dns20160627 : querydata pushed: 108000
+2016-07-03 10:37:48,036 DEBUG dns20160627 : querydata pushed: 110000
+2016-07-03 10:37:49,345 DEBUG dns20160627 : querydata pushed: 112000
+2016-07-03 10:37:50,582 DEBUG dns20160627 : querydata pushed: 114000
+2016-07-03 10:37:51,990 DEBUG dns20160627 : querydata pushed: 116000
+2016-07-03 10:37:53,303 DEBUG dns20160627 : querydata pushed: 118000
+2016-07-03 10:37:54,648 DEBUG dns20160627 : querydata pushed: 120000
+2016-07-03 10:37:55,936 DEBUG dns20160627 : querydata pushed: 122000
+2016-07-03 10:37:57,165 DEBUG dns20160627 : querydata pushed: 124000
+2016-07-03 10:37:58,330 DEBUG dns20160627 : querydata pushed: 126000
+2016-07-03 10:37:59,724 DEBUG dns20160627 : querydata pushed: 128000
+2016-07-03 10:38:01,285 DEBUG dns20160627 : querydata pushed: 130000
+2016-07-03 10:38:02,561 DEBUG dns20160627 : querydata pushed: 132000
+2016-07-03 10:38:03,881 DEBUG dns20160627 : querydata pushed: 134000
+2016-07-03 10:38:05,099 DEBUG dns20160627 : querydata pushed: 136000
+2016-07-03 10:38:06,375 DEBUG dns20160627 : querydata pushed: 138000
+2016-07-03 10:38:07,581 DEBUG dns20160627 : querydata pushed: 140000
+2016-07-03 10:38:08,903 DEBUG dns20160627 : querydata pushed: 142000
+2016-07-03 10:38:10,469 DEBUG dns20160627 : querydata pushed: 144000
+2016-07-03 10:38:11,689 DEBUG dns20160627 : querydata pushed: 146000
+2016-07-03 10:38:12,895 DEBUG dns20160627 : querydata pushed: 148000
+2016-07-03 10:38:14,262 DEBUG dns20160627 : querydata pushed: 150000
+2016-07-03 10:38:15,559 DEBUG dns20160627 : querydata pushed: 152000
+2016-07-03 10:38:16,794 DEBUG dns20160627 : querydata pushed: 154000
+2016-07-03 10:38:18,104 DEBUG dns20160627 : querydata pushed: 156000
+2016-07-03 10:38:19,516 DEBUG dns20160627 : querydata pushed: 158000
+2016-07-03 10:38:20,805 DEBUG dns20160627 : querydata pushed: 160000
+2016-07-03 10:38:22,027 DEBUG dns20160627 : querydata pushed: 162000
+2016-07-03 10:38:23,272 DEBUG dns20160627 : querydata pushed: 164000
+2016-07-03 10:38:24,513 DEBUG dns20160627 : querydata pushed: 166000
+2016-07-03 10:38:25,794 DEBUG dns20160627 : querydata pushed: 168000
+2016-07-03 10:38:27,062 DEBUG dns20160627 : querydata pushed: 170000
+2016-07-03 10:38:28,316 DEBUG dns20160627 : querydata pushed: 172000
+2016-07-03 10:38:29,506 DEBUG dns20160627 : querydata pushed: 174000
+2016-07-03 10:38:30,884 DEBUG dns20160627 : querydata pushed: 176000
+2016-07-03 10:38:32,128 DEBUG dns20160627 : querydata pushed: 178000
+2016-07-03 10:38:33,339 DEBUG dns20160627 : querydata pushed: 180000
+2016-07-03 10:38:34,539 DEBUG dns20160627 : querydata pushed: 182000
+2016-07-03 10:38:35,703 DEBUG dns20160627 : querydata pushed: 184000
+2016-07-03 10:38:37,065 DEBUG dns20160627 : querydata pushed: 186000
+2016-07-03 10:38:38,250 DEBUG dns20160627 : querydata pushed: 188000
+2016-07-03 10:38:39,351 DEBUG dns20160627 : querydata pushed: 190000
+2016-07-03 10:38:40,728 DEBUG dns20160627 : querydata pushed: 192000
+2016-07-03 10:38:42,017 DEBUG dns20160627 : querydata pushed: 194000
+2016-07-03 10:38:43,286 DEBUG dns20160627 : querydata pushed: 196000
+2016-07-03 10:38:44,607 DEBUG dns20160627 : querydata pushed: 198000
+2016-07-03 10:38:45,922 DEBUG dns20160627 : querydata pushed: 200000
+2016-07-03 10:38:47,212 DEBUG dns20160627 : querydata pushed: 202000
+2016-07-03 10:38:48,395 DEBUG dns20160627 : querydata pushed: 204000
+2016-07-03 10:38:49,631 DEBUG dns20160627 : querydata pushed: 206000
+2016-07-03 10:38:50,886 DEBUG dns20160627 : querydata pushed: 208000
+2016-07-03 10:38:52,108 DEBUG dns20160627 : querydata pushed: 210000
+2016-07-03 10:38:53,359 DEBUG dns20160627 : querydata pushed: 212000
+2016-07-03 10:38:54,507 DEBUG dns20160627 : querydata pushed: 214000
+2016-07-03 10:38:55,828 DEBUG dns20160627 : querydata pushed: 216000
+2016-07-03 10:38:57,051 DEBUG dns20160627 : querydata pushed: 218000
+2016-07-03 10:38:58,222 DEBUG dns20160627 : querydata pushed: 220000
+2016-07-03 10:38:59,431 DEBUG dns20160627 : querydata pushed: 222000
+2016-07-03 10:39:00,788 DEBUG dns20160627 : querydata pushed: 224000
+2016-07-03 10:39:02,023 DEBUG dns20160627 : querydata pushed: 226000
+2016-07-03 10:39:03,352 DEBUG dns20160627 : querydata pushed: 228000
+2016-07-03 10:39:04,900 DEBUG dns20160627 : querydata pushed: 230000
+2016-07-03 10:39:06,042 DEBUG dns20160627 : querydata pushed: 232000
+2016-07-03 10:39:07,258 DEBUG dns20160627 : querydata pushed: 234000
+2016-07-03 10:39:08,455 DEBUG dns20160627 : querydata pushed: 236000
+2016-07-03 10:39:09,726 DEBUG dns20160627 : querydata pushed: 238000
+2016-07-03 10:39:10,976 DEBUG dns20160627 : querydata pushed: 240000
+2016-07-03 10:39:12,497 DEBUG dns20160627 : querydata pushed: 242000
+2016-07-03 10:39:13,739 DEBUG dns20160627 : querydata pushed: 244000
+2016-07-03 10:39:15,037 DEBUG dns20160627 : querydata pushed: 246000
+2016-07-03 10:39:16,311 DEBUG dns20160627 : querydata pushed: 248000
+2016-07-03 10:39:17,688 DEBUG dns20160627 : querydata pushed: 250000
+2016-07-03 10:39:18,993 DEBUG dns20160627 : querydata pushed: 252000
+2016-07-03 10:39:20,400 DEBUG dns20160627 : querydata pushed: 254000
+2016-07-03 10:39:21,820 DEBUG dns20160627 : querydata pushed: 256000
+2016-07-03 10:39:23,326 DEBUG dns20160627 : querydata pushed: 258000
+2016-07-03 10:39:24,812 DEBUG dns20160627 : querydata pushed: 260000
+2016-07-03 10:39:26,189 DEBUG dns20160627 : querydata pushed: 262000
+2016-07-03 10:39:27,500 DEBUG dns20160627 : querydata pushed: 264000
+2016-07-03 10:39:28,850 DEBUG dns20160627 : querydata pushed: 266000
+2016-07-03 10:39:30,158 DEBUG dns20160627 : querydata pushed: 268000
+2016-07-03 10:39:31,511 DEBUG dns20160627 : querydata pushed: 270000
+2016-07-03 10:39:32,896 DEBUG dns20160627 : querydata pushed: 272000
+2016-07-03 10:39:34,038 DEBUG dns20160627 : querydata pushed: 274000
+2016-07-03 10:39:35,323 DEBUG dns20160627 : querydata pushed: 276000
+2016-07-03 10:39:36,846 DEBUG dns20160627 : querydata pushed: 278000
+2016-07-03 10:39:38,036 DEBUG dns20160627 : querydata pushed: 280000
+2016-07-03 10:39:39,338 DEBUG dns20160627 : querydata pushed: 282000
+2016-07-03 10:39:40,635 DEBUG dns20160627 : querydata pushed: 284000
+2016-07-03 10:39:41,933 DEBUG dns20160627 : querydata pushed: 286000
+2016-07-03 10:39:43,111 DEBUG dns20160627 : querydata pushed: 288000
+2016-07-03 10:39:44,325 DEBUG dns20160627 : querydata pushed: 290000
+2016-07-03 10:39:45,535 DEBUG dns20160627 : querydata pushed: 292000
+2016-07-03 10:39:46,832 DEBUG dns20160627 : querydata pushed: 294000
+2016-07-03 10:39:48,181 DEBUG dns20160627 : querydata pushed: 296000
+2016-07-03 10:39:49,401 DEBUG dns20160627 : querydata pushed: 298000
+2016-07-03 10:39:50,699 DEBUG dns20160627 : querydata pushed: 300000
+2016-07-03 10:39:51,925 DEBUG dns20160627 : querydata pushed: 302000
+2016-07-03 10:39:53,169 DEBUG dns20160627 : querydata pushed: 304000
+2016-07-03 10:39:54,501 DEBUG dns20160627 : querydata pushed: 306000
+2016-07-03 10:39:55,724 DEBUG dns20160627 : querydata pushed: 308000
+2016-07-03 10:39:56,981 DEBUG dns20160627 : querydata pushed: 310000
+2016-07-03 10:39:58,160 DEBUG dns20160627 : querydata pushed: 312000
+2016-07-03 10:39:59,419 DEBUG dns20160627 : querydata pushed: 314000
+2016-07-03 10:40:00,657 DEBUG dns20160627 : querydata pushed: 316000
+2016-07-03 10:40:01,801 DEBUG dns20160627 : querydata pushed: 318000
+2016-07-03 10:40:03,221 DEBUG dns20160627 : querydata pushed: 320000
+2016-07-03 10:40:04,482 DEBUG dns20160627 : querydata pushed: 322000
+2016-07-03 10:40:05,688 DEBUG dns20160627 : querydata pushed: 324000
+2016-07-03 10:40:06,856 DEBUG dns20160627 : querydata pushed: 326000
+2016-07-03 10:40:08,027 DEBUG dns20160627 : querydata pushed: 328000
+2016-07-03 10:40:09,235 DEBUG dns20160627 : querydata pushed: 330000
+2016-07-03 10:40:10,345 DEBUG dns20160627 : querydata pushed: 332000
+2016-07-03 10:40:11,571 DEBUG dns20160627 : querydata pushed: 334000
+2016-07-03 10:40:12,905 DEBUG dns20160627 : querydata pushed: 336000
+2016-07-03 10:40:14,127 DEBUG dns20160627 : querydata pushed: 338000
+2016-07-03 10:40:15,349 DEBUG dns20160627 : querydata pushed: 340000
+2016-07-03 10:40:16,489 DEBUG dns20160627 : querydata pushed: 342000
+2016-07-03 10:40:17,714 DEBUG dns20160627 : querydata pushed: 344000
+2016-07-03 10:40:18,992 DEBUG dns20160627 : querydata pushed: 346000
+2016-07-03 10:40:20,460 DEBUG dns20160627 : querydata pushed: 348000
+2016-07-03 10:40:21,749 DEBUG dns20160627 : querydata pushed: 350000
+2016-07-03 10:40:23,116 DEBUG dns20160627 : querydata pushed: 352000
+2016-07-03 10:40:25,383 DEBUG dns20160627 : querydata pushed: 354000
+2016-07-03 10:40:26,627 DEBUG dns20160627 : querydata pushed: 356000
+2016-07-03 10:40:27,898 DEBUG dns20160627 : querydata pushed: 358000
+2016-07-03 10:40:29,019 DEBUG dns20160627 : querydata pushed: 360000
+2016-07-03 10:40:30,205 DEBUG dns20160627 : querydata pushed: 362000
+2016-07-03 10:40:31,551 DEBUG dns20160627 : querydata pushed: 364000
+2016-07-03 10:40:32,826 DEBUG dns20160627 : querydata pushed: 366000
+2016-07-03 10:40:34,195 DEBUG dns20160627 : querydata pushed: 368000
+2016-07-03 10:40:35,518 DEBUG dns20160627 : querydata pushed: 370000
+2016-07-03 10:40:36,869 DEBUG dns20160627 : querydata pushed: 372000
+2016-07-03 10:40:39,977 DEBUG dns20160627 : querydata pushed: 374000
+2016-07-03 10:40:41,222 DEBUG dns20160627 : querydata pushed: 376000
+2016-07-03 10:40:42,507 DEBUG dns20160627 : querydata pushed: 378000
+2016-07-03 10:40:43,773 DEBUG dns20160627 : querydata pushed: 380000
+2016-07-03 10:40:44,986 DEBUG dns20160627 : querydata pushed: 382000
+2016-07-03 10:40:46,195 DEBUG dns20160627 : querydata pushed: 384000
+2016-07-03 10:40:47,420 DEBUG dns20160627 : querydata pushed: 386000
+2016-07-03 10:40:48,616 DEBUG dns20160627 : querydata pushed: 388000
+2016-07-03 10:40:49,796 DEBUG dns20160627 : querydata pushed: 390000
+2016-07-03 10:40:50,964 DEBUG dns20160627 : querydata pushed: 392000
+2016-07-03 10:40:52,264 DEBUG dns20160627 : querydata pushed: 394000
+2016-07-03 10:40:53,555 DEBUG dns20160627 : querydata pushed: 396000
+2016-07-03 10:40:54,695 DEBUG dns20160627 : querydata pushed: 398000
+2016-07-03 10:40:55,824 DEBUG dns20160627 : querydata pushed: 400000
+2016-07-03 10:40:56,945 DEBUG dns20160627 : querydata pushed: 402000
+2016-07-03 10:40:58,273 DEBUG dns20160627 : querydata pushed: 404000
+2016-07-03 10:40:59,924 DEBUG dns20160627 : querydata pushed: 406000
+2016-07-03 10:41:01,153 DEBUG dns20160627 : querydata pushed: 408000
+2016-07-03 10:41:02,454 DEBUG dns20160627 : querydata pushed: 410000
+2016-07-03 10:41:03,865 DEBUG dns20160627 : querydata pushed: 412000
+2016-07-03 10:41:05,162 DEBUG dns20160627 : querydata pushed: 414000
+2016-07-03 10:41:06,402 DEBUG dns20160627 : querydata pushed: 416000
+2016-07-03 10:41:07,612 DEBUG dns20160627 : querydata pushed: 418000
+2016-07-03 10:41:08,921 DEBUG dns20160627 : querydata pushed: 420000
+2016-07-03 10:41:10,110 DEBUG dns20160627 : querydata pushed: 422000
+2016-07-03 10:41:11,376 DEBUG dns20160627 : querydata pushed: 424000
+2016-07-03 10:41:12,974 DEBUG dns20160627 : querydata pushed: 426000
+2016-07-03 10:41:14,197 DEBUG dns20160627 : querydata pushed: 428000
+2016-07-03 10:41:15,464 DEBUG dns20160627 : querydata pushed: 430000
+2016-07-03 10:41:16,539 DEBUG dns20160627 : querydata pushed: 432000
+2016-07-03 10:41:17,977 DEBUG dns20160627 : querydata pushed: 434000
+2016-07-03 10:41:19,134 DEBUG dns20160627 : querydata pushed: 436000
+2016-07-03 10:41:20,598 DEBUG dns20160627 : querydata pushed: 438000
+2016-07-03 10:41:21,920 DEBUG dns20160627 : querydata pushed: 440000
+2016-07-03 10:41:23,294 DEBUG dns20160627 : querydata pushed: 442000
+2016-07-03 10:41:24,824 DEBUG dns20160627 : querydata pushed: 444000
+2016-07-03 10:41:27,162 DEBUG dns20160627 : querydata pushed: 446000
+2016-07-03 10:41:28,335 DEBUG dns20160627 : querydata pushed: 448000
+2016-07-03 10:41:29,482 DEBUG dns20160627 : querydata pushed: 450000
+2016-07-03 10:41:32,022 DEBUG dns20160627 : querydata pushed: 452000
+2016-07-03 10:41:33,487 DEBUG dns20160627 : querydata pushed: 454000
+2016-07-03 10:41:35,554 DEBUG dns20160627 : querydata pushed: 456000
+2016-07-03 10:41:38,166 DEBUG dns20160627 : querydata pushed: 458000
+2016-07-03 10:41:40,557 DEBUG dns20160627 : querydata pushed: 460000
+2016-07-03 10:41:45,034 DEBUG dns20160627 : querydata pushed: 462000
+2016-07-03 10:41:46,864 DEBUG dns20160627 : querydata pushed: 464000
+2016-07-03 10:41:48,558 DEBUG dns20160627 : querydata pushed: 466000
+2016-07-03 10:41:50,011 DEBUG dns20160627 : querydata pushed: 468000
+2016-07-03 10:41:51,324 DEBUG dns20160627 : querydata pushed: 470000
+2016-07-03 10:41:52,670 DEBUG dns20160627 : querydata pushed: 472000
+2016-07-03 10:41:53,828 DEBUG dns20160627 : querydata pushed: 474000
+2016-07-03 10:41:56,134 DEBUG dns20160627 : querydata pushed: 476000
+2016-07-03 10:41:57,371 DEBUG dns20160627 : querydata pushed: 478000
+2016-07-03 10:41:58,682 DEBUG dns20160627 : querydata pushed: 480000
+2016-07-03 10:41:59,946 DEBUG dns20160627 : querydata pushed: 482000
+2016-07-03 10:42:02,337 DEBUG dns20160627 : querydata pushed: 484000
+2016-07-03 10:42:03,672 DEBUG dns20160627 : querydata pushed: 486000
+2016-07-03 10:42:04,886 DEBUG dns20160627 : querydata pushed: 488000
+2016-07-03 10:42:06,135 DEBUG dns20160627 : querydata pushed: 490000
+2016-07-03 10:42:07,317 DEBUG dns20160627 : querydata pushed: 492000
+2016-07-03 10:42:08,544 DEBUG dns20160627 : querydata pushed: 494000
+2016-07-03 10:42:10,105 DEBUG dns20160627 : querydata pushed: 496000
+2016-07-03 10:42:11,414 DEBUG dns20160627 : querydata pushed: 498000
+2016-07-03 10:42:12,635 DEBUG dns20160627 : querydata pushed: 500000
+2016-07-03 10:42:16,069 DEBUG dns20160627 : querydata pushed: 502000
+2016-07-03 10:42:17,282 DEBUG dns20160627 : querydata pushed: 504000
+2016-07-03 10:42:18,523 DEBUG dns20160627 : querydata pushed: 506000
+2016-07-03 10:42:19,783 DEBUG dns20160627 : querydata pushed: 508000
+2016-07-03 10:42:21,081 DEBUG dns20160627 : querydata pushed: 510000
+2016-07-03 10:42:22,284 DEBUG dns20160627 : querydata pushed: 512000
+2016-07-03 10:42:23,588 DEBUG dns20160627 : querydata pushed: 514000
+2016-07-03 10:42:26,839 DEBUG dns20160627 : querydata pushed: 516000
+2016-07-03 10:42:28,029 DEBUG dns20160627 : querydata pushed: 518000
+2016-07-03 10:42:29,462 DEBUG dns20160627 : querydata pushed: 520000
+2016-07-03 10:42:30,895 DEBUG dns20160627 : querydata pushed: 522000
+2016-07-03 10:42:32,174 DEBUG dns20160627 : querydata pushed: 524000
+2016-07-03 10:42:33,429 DEBUG dns20160627 : querydata pushed: 526000
+2016-07-03 10:42:34,699 DEBUG dns20160627 : querydata pushed: 528000
+2016-07-03 10:42:38,774 DEBUG dns20160627 : querydata pushed: 530000
+2016-07-03 10:42:40,134 DEBUG dns20160627 : querydata pushed: 532000
+2016-07-03 10:42:41,552 DEBUG dns20160627 : querydata pushed: 534000
+2016-07-03 10:42:43,008 DEBUG dns20160627 : querydata pushed: 536000
+2016-07-03 10:42:44,264 DEBUG dns20160627 : querydata pushed: 538000
+2016-07-03 10:42:45,592 DEBUG dns20160627 : querydata pushed: 540000
+2016-07-03 10:42:46,962 DEBUG dns20160627 : querydata pushed: 542000
+2016-07-03 10:42:48,497 DEBUG dns20160627 : querydata pushed: 544000
+2016-07-03 10:42:49,862 DEBUG dns20160627 : querydata pushed: 546000
+2016-07-03 10:42:51,054 DEBUG dns20160627 : querydata pushed: 548000
+2016-07-03 10:42:52,324 DEBUG dns20160627 : querydata pushed: 550000
+2016-07-03 10:42:53,575 DEBUG dns20160627 : querydata pushed: 552000
+2016-07-03 10:42:56,011 DEBUG dns20160627 : querydata pushed: 554000
+2016-07-03 10:42:58,465 DEBUG dns20160627 : querydata pushed: 556000
+2016-07-03 10:42:59,898 DEBUG dns20160627 : querydata pushed: 558000
+2016-07-03 10:43:01,120 DEBUG dns20160627 : querydata pushed: 560000
+2016-07-03 10:43:02,398 DEBUG dns20160627 : querydata pushed: 562000
+2016-07-03 10:43:03,675 DEBUG dns20160627 : querydata pushed: 564000
+2016-07-03 10:43:07,114 DEBUG dns20160627 : querydata pushed: 566000
+2016-07-03 10:43:08,345 DEBUG dns20160627 : querydata pushed: 568000
+2016-07-03 10:43:09,754 DEBUG dns20160627 : querydata pushed: 570000
+2016-07-03 10:43:11,000 DEBUG dns20160627 : querydata pushed: 572000
+2016-07-03 10:43:12,226 DEBUG dns20160627 : querydata pushed: 574000
+2016-07-03 10:43:13,599 DEBUG dns20160627 : querydata pushed: 576000
+2016-07-03 10:43:14,877 DEBUG dns20160627 : querydata pushed: 578000
+2016-07-03 10:43:16,160 DEBUG dns20160627 : querydata pushed: 580000
+2016-07-03 10:43:19,617 DEBUG dns20160627 : querydata pushed: 582000
+2016-07-03 10:43:20,900 DEBUG dns20160627 : querydata pushed: 584000
+2016-07-03 10:43:22,322 DEBUG dns20160627 : querydata pushed: 586000
+2016-07-03 10:43:23,689 DEBUG dns20160627 : querydata pushed: 588000
+2016-07-03 10:43:25,056 DEBUG dns20160627 : querydata pushed: 590000
+2016-07-03 10:43:26,289 DEBUG dns20160627 : querydata pushed: 592000
+2016-07-03 10:43:27,638 DEBUG dns20160627 : querydata pushed: 594000
+2016-07-03 10:43:31,087 DEBUG dns20160627 : querydata pushed: 596000
+2016-07-03 10:43:32,355 DEBUG dns20160627 : querydata pushed: 598000
+2016-07-03 10:43:33,668 DEBUG dns20160627 : querydata pushed: 600000
+2016-07-03 10:43:35,077 DEBUG dns20160627 : querydata pushed: 602000
+2016-07-03 10:43:36,483 DEBUG dns20160627 : querydata pushed: 604000
+2016-07-03 10:43:37,875 DEBUG dns20160627 : querydata pushed: 606000
+2016-07-03 10:43:41,151 DEBUG dns20160627 : querydata pushed: 608000
+2016-07-03 10:43:42,391 DEBUG dns20160627 : querydata pushed: 610000
+2016-07-03 10:43:43,657 DEBUG dns20160627 : querydata pushed: 612000
+2016-07-03 10:43:45,596 DEBUG dns20160627 : querydata pushed: 614000
+2016-07-03 10:43:46,911 DEBUG dns20160627 : querydata pushed: 616000
+2016-07-03 10:43:48,345 DEBUG dns20160627 : querydata pushed: 618000
+2016-07-03 10:43:49,855 DEBUG dns20160627 : querydata pushed: 620000
+2016-07-03 10:43:53,279 DEBUG dns20160627 : querydata pushed: 622000
+2016-07-03 10:43:54,506 DEBUG dns20160627 : querydata pushed: 624000
+2016-07-03 10:43:55,736 DEBUG dns20160627 : querydata pushed: 626000
+2016-07-03 10:43:57,170 DEBUG dns20160627 : querydata pushed: 628000
+2016-07-03 10:43:58,806 DEBUG dns20160627 : querydata pushed: 630000
+2016-07-03 10:44:00,142 DEBUG dns20160627 : querydata pushed: 632000
+2016-07-03 10:44:03,634 DEBUG dns20160627 : querydata pushed: 634000
+2016-07-03 10:44:05,056 DEBUG dns20160627 : querydata pushed: 636000
+2016-07-03 10:44:06,382 DEBUG dns20160627 : querydata pushed: 638000
+2016-07-03 10:44:07,768 DEBUG dns20160627 : querydata pushed: 640000
+2016-07-03 10:44:09,117 DEBUG dns20160627 : querydata pushed: 642000
+2016-07-03 10:44:10,387 DEBUG dns20160627 : querydata pushed: 644000
+2016-07-03 10:44:11,775 DEBUG dns20160627 : querydata pushed: 646000
+2016-07-03 10:44:14,338 DEBUG dns20160627 : querydata pushed: 648000
+2016-07-03 10:44:15,594 DEBUG dns20160627 : querydata pushed: 650000
+2016-07-03 10:44:16,972 DEBUG dns20160627 : querydata pushed: 652000
+2016-07-03 10:44:19,397 DEBUG dns20160627 : querydata pushed: 654000
+2016-07-03 10:44:20,606 DEBUG dns20160627 : querydata pushed: 656000
+2016-07-03 10:44:21,884 DEBUG dns20160627 : querydata pushed: 658000
+2016-07-03 10:44:25,066 DEBUG dns20160627 : querydata pushed: 660000
+2016-07-03 10:44:26,361 DEBUG dns20160627 : querydata pushed: 662000
+2016-07-03 10:44:27,783 DEBUG dns20160627 : querydata pushed: 664000
+2016-07-03 10:44:29,285 DEBUG dns20160627 : querydata pushed: 666000
+2016-07-03 10:44:30,588 DEBUG dns20160627 : querydata pushed: 668000
+2016-07-03 10:44:31,850 DEBUG dns20160627 : querydata pushed: 670000
+2016-07-03 10:44:33,335 DEBUG dns20160627 : querydata pushed: 672000
+2016-07-03 10:44:36,720 DEBUG dns20160627 : querydata pushed: 674000
+2016-07-03 10:44:38,074 DEBUG dns20160627 : querydata pushed: 676000
+2016-07-03 10:44:39,550 DEBUG dns20160627 : querydata pushed: 678000
+2016-07-03 10:44:40,947 DEBUG dns20160627 : querydata pushed: 680000
+2016-07-03 10:44:42,416 DEBUG dns20160627 : querydata pushed: 682000
+2016-07-03 10:44:43,819 DEBUG dns20160627 : querydata pushed: 684000
+2016-07-03 10:44:47,036 DEBUG dns20160627 : querydata pushed: 686000
+2016-07-03 10:44:48,459 DEBUG dns20160627 : querydata pushed: 688000
+2016-07-03 10:44:49,891 DEBUG dns20160627 : querydata pushed: 690000
+2016-07-03 10:44:51,217 DEBUG dns20160627 : querydata pushed: 692000
+2016-07-03 10:44:52,392 DEBUG dns20160627 : querydata pushed: 694000
+2016-07-03 10:44:53,592 DEBUG dns20160627 : querydata pushed: 696000
+2016-07-03 10:44:56,919 DEBUG dns20160627 : querydata pushed: 698000
+2016-07-03 10:44:58,224 DEBUG dns20160627 : querydata pushed: 700000
+2016-07-03 10:44:59,575 DEBUG dns20160627 : querydata pushed: 702000
+2016-07-03 10:45:01,065 DEBUG dns20160627 : querydata pushed: 704000
+2016-07-03 10:45:02,463 DEBUG dns20160627 : querydata pushed: 706000
+2016-07-03 10:45:03,790 DEBUG dns20160627 : querydata pushed: 708000
+2016-07-03 10:45:07,084 DEBUG dns20160627 : querydata pushed: 710000
+2016-07-03 10:45:08,418 DEBUG dns20160627 : querydata pushed: 712000
+2016-07-03 10:45:09,736 DEBUG dns20160627 : querydata pushed: 714000
+2016-07-03 10:45:10,916 DEBUG dns20160627 : querydata pushed: 716000
+2016-07-03 10:45:12,179 DEBUG dns20160627 : querydata pushed: 718000
+2016-07-03 10:45:13,740 DEBUG dns20160627 : querydata pushed: 720000
+2016-07-03 10:45:17,407 DEBUG dns20160627 : querydata pushed: 722000
+2016-07-03 10:45:18,636 DEBUG dns20160627 : querydata pushed: 724000
+2016-07-03 10:45:19,912 DEBUG dns20160627 : querydata pushed: 726000
+2016-07-03 10:45:21,267 DEBUG dns20160627 : querydata pushed: 728000
+2016-07-03 10:45:22,468 DEBUG dns20160627 : querydata pushed: 730000
+2016-07-03 10:45:23,816 DEBUG dns20160627 : querydata pushed: 732000
+2016-07-03 10:45:24,926 DEBUG dns20160627 : querydata pushed: 734000
+2016-07-03 10:45:28,595 DEBUG dns20160627 : querydata pushed: 736000
+2016-07-03 10:45:29,854 DEBUG dns20160627 : querydata pushed: 738000
+2016-07-03 10:45:31,130 DEBUG dns20160627 : querydata pushed: 740000
+2016-07-03 10:45:32,361 DEBUG dns20160627 : querydata pushed: 742000
+2016-07-03 10:45:33,596 DEBUG dns20160627 : querydata pushed: 744000
+2016-07-03 10:45:34,736 DEBUG dns20160627 : querydata pushed: 746000
+2016-07-03 10:45:38,103 DEBUG dns20160627 : querydata pushed: 748000
+2016-07-03 10:45:39,238 DEBUG dns20160627 : querydata pushed: 750000
+2016-07-03 10:45:40,451 DEBUG dns20160627 : querydata pushed: 752000
+2016-07-03 10:45:41,744 DEBUG dns20160627 : querydata pushed: 754000
+2016-07-03 10:45:43,028 DEBUG dns20160627 : querydata pushed: 756000
+2016-07-03 10:45:44,649 DEBUG dns20160627 : querydata pushed: 758000
+2016-07-03 10:45:48,168 DEBUG dns20160627 : querydata pushed: 760000
+2016-07-03 10:45:49,413 DEBUG dns20160627 : querydata pushed: 762000
+2016-07-03 10:45:50,714 DEBUG dns20160627 : querydata pushed: 764000
+2016-07-03 10:45:52,092 DEBUG dns20160627 : querydata pushed: 766000
+2016-07-03 10:45:53,464 DEBUG dns20160627 : querydata pushed: 768000
+2016-07-03 10:45:54,857 DEBUG dns20160627 : querydata pushed: 770000
+2016-07-03 10:45:56,290 DEBUG dns20160627 : querydata pushed: 772000
+2016-07-03 10:45:57,561 DEBUG dns20160627 : querydata pushed: 774000
+2016-07-03 10:45:58,978 DEBUG dns20160627 : querydata pushed: 776000
+2016-07-03 10:46:00,300 DEBUG dns20160627 : querydata pushed: 778000
+2016-07-03 10:46:01,651 DEBUG dns20160627 : querydata pushed: 780000
+2016-07-03 10:46:02,900 DEBUG dns20160627 : querydata pushed: 782000
+2016-07-03 10:46:04,222 DEBUG dns20160627 : querydata pushed: 784000
+2016-07-03 10:46:05,502 DEBUG dns20160627 : querydata pushed: 786000
+2016-07-03 10:46:06,722 DEBUG dns20160627 : querydata pushed: 788000
+2016-07-03 10:46:07,987 DEBUG dns20160627 : querydata pushed: 790000
+2016-07-03 10:46:09,198 DEBUG dns20160627 : querydata pushed: 792000
+2016-07-03 10:46:10,627 DEBUG dns20160627 : querydata pushed: 794000
+2016-07-03 10:46:12,006 DEBUG dns20160627 : querydata pushed: 796000
+2016-07-03 10:46:13,297 DEBUG dns20160627 : querydata pushed: 798000
+2016-07-03 10:46:14,660 DEBUG dns20160627 : querydata pushed: 800000
+2016-07-03 10:46:16,202 DEBUG dns20160627 : querydata pushed: 802000
+2016-07-03 10:46:17,640 DEBUG dns20160627 : querydata pushed: 804000
+2016-07-03 10:46:19,110 DEBUG dns20160627 : querydata pushed: 806000
+2016-07-03 10:46:20,506 DEBUG dns20160627 : querydata pushed: 808000
+2016-07-03 10:46:23,238 DEBUG dns20160627 : querydata pushed: 810000
+2016-07-03 10:46:24,694 DEBUG dns20160627 : querydata pushed: 812000
+2016-07-03 10:46:26,049 DEBUG dns20160627 : querydata pushed: 814000
+2016-07-03 10:46:27,371 DEBUG dns20160627 : querydata pushed: 816000
+2016-07-03 10:46:28,672 DEBUG dns20160627 : querydata pushed: 818000
+2016-07-03 10:46:30,203 DEBUG dns20160627 : querydata pushed: 820000
+2016-07-03 10:46:31,590 DEBUG dns20160627 : querydata pushed: 822000
+2016-07-03 10:46:33,092 DEBUG dns20160627 : querydata pushed: 824000
+2016-07-03 10:46:34,403 DEBUG dns20160627 : querydata pushed: 826000
+2016-07-03 10:46:35,590 DEBUG dns20160627 : querydata pushed: 828000
+2016-07-03 10:46:36,947 DEBUG dns20160627 : querydata pushed: 830000
+2016-07-03 10:46:38,202 DEBUG dns20160627 : querydata pushed: 832000
+2016-07-03 10:46:39,567 DEBUG dns20160627 : querydata pushed: 834000
+2016-07-03 10:46:40,945 DEBUG dns20160627 : querydata pushed: 836000
+2016-07-03 10:46:42,423 DEBUG dns20160627 : querydata pushed: 838000
+2016-07-03 10:46:43,811 DEBUG dns20160627 : querydata pushed: 840000
+2016-07-03 10:46:45,172 DEBUG dns20160627 : querydata pushed: 842000
+2016-07-03 10:46:46,488 DEBUG dns20160627 : querydata pushed: 844000
+2016-07-03 10:46:47,794 DEBUG dns20160627 : querydata pushed: 846000
+2016-07-03 10:46:49,232 DEBUG dns20160627 : querydata pushed: 848000
+2016-07-03 10:46:50,655 DEBUG dns20160627 : querydata pushed: 850000
+2016-07-03 10:46:51,977 DEBUG dns20160627 : querydata pushed: 852000
+2016-07-03 10:46:53,369 DEBUG dns20160627 : querydata pushed: 854000
+2016-07-03 10:46:54,686 DEBUG dns20160627 : querydata pushed: 856000
+2016-07-03 10:46:56,227 DEBUG dns20160627 : querydata pushed: 858000
+2016-07-03 10:46:57,553 DEBUG dns20160627 : querydata pushed: 860000
+2016-07-03 10:46:58,974 DEBUG dns20160627 : querydata pushed: 862000
+2016-07-03 10:47:00,206 DEBUG dns20160627 : querydata pushed: 864000
+2016-07-03 10:47:01,541 DEBUG dns20160627 : querydata pushed: 866000
+2016-07-03 10:47:02,897 DEBUG dns20160627 : querydata pushed: 868000
+2016-07-03 10:47:04,307 DEBUG dns20160627 : querydata pushed: 870000
+2016-07-03 10:47:05,773 DEBUG dns20160627 : querydata pushed: 872000
+2016-07-03 10:47:07,191 DEBUG dns20160627 : querydata pushed: 874000
+2016-07-03 10:47:08,358 DEBUG dns20160627 : querydata pushed: 876000
+2016-07-03 10:47:09,771 DEBUG dns20160627 : querydata pushed: 878000
+2016-07-03 10:47:11,094 DEBUG dns20160627 : querydata pushed: 880000
+2016-07-03 10:47:12,396 DEBUG dns20160627 : querydata pushed: 882000
+2016-07-03 10:47:13,685 DEBUG dns20160627 : querydata pushed: 884000
+2016-07-03 10:47:14,960 DEBUG dns20160627 : querydata pushed: 886000
+2016-07-03 10:47:16,650 DEBUG dns20160627 : querydata pushed: 888000
+2016-07-03 10:47:17,948 DEBUG dns20160627 : querydata pushed: 890000
+2016-07-03 10:47:19,370 DEBUG dns20160627 : querydata pushed: 892000
+2016-07-03 10:47:20,567 DEBUG dns20160627 : querydata pushed: 894000
+2016-07-03 10:47:22,069 DEBUG dns20160627 : querydata pushed: 896000
+2016-07-03 10:47:23,390 DEBUG dns20160627 : querydata pushed: 898000
+2016-07-03 10:47:24,563 DEBUG dns20160627 : querydata pushed: 900000
+2016-07-03 10:47:25,880 DEBUG dns20160627 : querydata pushed: 902000
+2016-07-03 10:47:27,258 DEBUG dns20160627 : querydata pushed: 904000
+2016-07-03 10:47:28,590 DEBUG dns20160627 : querydata pushed: 906000
+2016-07-03 10:47:29,989 DEBUG dns20160627 : querydata pushed: 908000
+2016-07-03 10:47:31,412 DEBUG dns20160627 : querydata pushed: 910000
+2016-07-03 10:47:32,675 DEBUG dns20160627 : querydata pushed: 912000
+2016-07-03 10:47:33,933 DEBUG dns20160627 : querydata pushed: 914000
+2016-07-03 10:47:35,123 DEBUG dns20160627 : querydata pushed: 916000
+2016-07-03 10:47:36,532 DEBUG dns20160627 : querydata pushed: 918000
+2016-07-03 10:47:37,779 DEBUG dns20160627 : querydata pushed: 920000
+2016-07-03 10:47:38,924 DEBUG dns20160627 : querydata pushed: 922000
+2016-07-03 10:47:40,223 DEBUG dns20160627 : querydata pushed: 924000
+2016-07-03 10:47:41,376 DEBUG dns20160627 : querydata pushed: 926000
+2016-07-03 10:47:42,574 DEBUG dns20160627 : querydata pushed: 928000
+2016-07-03 10:47:43,774 DEBUG dns20160627 : querydata pushed: 930000
+2016-07-03 10:47:45,099 DEBUG dns20160627 : querydata pushed: 932000
+2016-07-03 10:47:46,606 DEBUG dns20160627 : querydata pushed: 934000
+2016-07-03 10:47:47,888 DEBUG dns20160627 : querydata pushed: 936000
+2016-07-03 10:47:49,223 DEBUG dns20160627 : querydata pushed: 938000
+2016-07-03 10:47:50,413 DEBUG dns20160627 : querydata pushed: 940000
+2016-07-03 10:47:51,654 DEBUG dns20160627 : querydata pushed: 942000
+2016-07-03 10:47:52,954 DEBUG dns20160627 : querydata pushed: 944000
+2016-07-03 10:47:54,250 DEBUG dns20160627 : querydata pushed: 946000
+2016-07-03 10:47:55,529 DEBUG dns20160627 : querydata pushed: 948000
+2016-07-03 10:47:56,775 DEBUG dns20160627 : querydata pushed: 950000
+2016-07-03 10:47:58,053 DEBUG dns20160627 : querydata pushed: 952000
+2016-07-03 10:47:59,428 DEBUG dns20160627 : querydata pushed: 954000
+2016-07-03 10:48:00,697 DEBUG dns20160627 : querydata pushed: 956000
+2016-07-03 10:48:02,097 DEBUG dns20160627 : querydata pushed: 958000
+2016-07-03 10:48:03,385 DEBUG dns20160627 : querydata pushed: 960000
+2016-07-03 10:48:04,608 DEBUG dns20160627 : querydata pushed: 962000
+2016-07-03 10:48:05,962 DEBUG dns20160627 : querydata pushed: 964000
+2016-07-03 10:48:07,282 DEBUG dns20160627 : querydata pushed: 966000
+2016-07-03 10:48:08,467 DEBUG dns20160627 : querydata pushed: 968000
+2016-07-03 10:48:09,693 DEBUG dns20160627 : querydata pushed: 970000
+2016-07-03 10:48:10,906 DEBUG dns20160627 : querydata pushed: 972000
+2016-07-03 10:48:12,306 DEBUG dns20160627 : querydata pushed: 974000
+2016-07-03 10:48:13,566 DEBUG dns20160627 : querydata pushed: 976000
+2016-07-03 10:48:14,883 DEBUG dns20160627 : querydata pushed: 978000
+2016-07-03 10:48:16,183 DEBUG dns20160627 : querydata pushed: 980000
+2016-07-03 10:48:17,616 DEBUG dns20160627 : querydata pushed: 982000
+2016-07-03 10:48:18,795 DEBUG dns20160627 : querydata pushed: 984000
+2016-07-03 10:48:20,082 DEBUG dns20160627 : querydata pushed: 986000
+2016-07-03 10:48:21,461 DEBUG dns20160627 : querydata pushed: 988000
+2016-07-03 10:48:22,790 DEBUG dns20160627 : querydata pushed: 990000
+2016-07-03 10:48:24,090 DEBUG dns20160627 : querydata pushed: 992000
+2016-07-03 10:48:25,350 DEBUG dns20160627 : querydata pushed: 994000
+2016-07-03 10:48:26,604 DEBUG dns20160627 : querydata pushed: 996000
+2016-07-03 10:48:27,811 DEBUG dns20160627 : querydata pushed: 998000
+2016-07-03 10:48:29,024 DEBUG dns20160627 : querydata pushed: 999672
+2016-07-03 10:48:32,336 DEBUG dns20160627 : dnsdata pushed: 2000
+2016-07-03 10:48:33,559 DEBUG dns20160627 : dnsdata pushed: 4000
+2016-07-03 10:48:34,869 DEBUG dns20160627 : dnsdata pushed: 6000
+2016-07-03 10:48:36,278 DEBUG dns20160627 : dnsdata pushed: 8000
+2016-07-03 10:48:37,401 DEBUG dns20160627 : dnsdata pushed: 10000
+2016-07-03 10:48:38,429 DEBUG dns20160627 : dnsdata pushed: 12000
+2016-07-03 10:48:39,623 DEBUG dns20160627 : dnsdata pushed: 14000
+2016-07-03 10:48:40,913 DEBUG dns20160627 : dnsdata pushed: 16000
+2016-07-03 10:48:42,244 DEBUG dns20160627 : dnsdata pushed: 18000
+2016-07-03 10:48:43,484 DEBUG dns20160627 : dnsdata pushed: 20000
+2016-07-03 10:48:44,644 DEBUG dns20160627 : dnsdata pushed: 22000
+2016-07-03 10:48:46,037 DEBUG dns20160627 : dnsdata pushed: 24000
+2016-07-03 10:48:47,314 DEBUG dns20160627 : dnsdata pushed: 26000
+2016-07-03 10:48:48,513 DEBUG dns20160627 : dnsdata pushed: 28000
+2016-07-03 10:48:49,791 DEBUG dns20160627 : dnsdata pushed: 30000
+2016-07-03 10:48:51,133 DEBUG dns20160627 : dnsdata pushed: 32000
+2016-07-03 10:48:52,455 DEBUG dns20160627 : dnsdata pushed: 34000
+2016-07-03 10:48:53,852 DEBUG dns20160627 : dnsdata pushed: 36000
+2016-07-03 10:48:55,033 DEBUG dns20160627 : dnsdata pushed: 38000
+2016-07-03 10:48:56,120 DEBUG dns20160627 : dnsdata pushed: 40000
+2016-07-03 10:48:57,490 DEBUG dns20160627 : dnsdata pushed: 42000
+2016-07-03 10:48:58,822 DEBUG dns20160627 : dnsdata pushed: 44000
+2016-07-03 10:49:00,188 DEBUG dns20160627 : dnsdata pushed: 46000
+2016-07-03 10:49:01,555 DEBUG dns20160627 : dnsdata pushed: 48000
+2016-07-03 10:49:02,864 DEBUG dns20160627 : dnsdata pushed: 50000
+2016-07-03 10:49:04,096 DEBUG dns20160627 : dnsdata pushed: 52000
+2016-07-03 10:49:05,323 DEBUG dns20160627 : dnsdata pushed: 54000
+2016-07-03 10:49:06,529 DEBUG dns20160627 : dnsdata pushed: 56000
+2016-07-03 10:49:07,776 DEBUG dns20160627 : dnsdata pushed: 58000
+2016-07-03 10:49:09,062 DEBUG dns20160627 : dnsdata pushed: 60000
+2016-07-03 10:49:10,453 DEBUG dns20160627 : dnsdata pushed: 62000
+2016-07-03 10:49:11,838 DEBUG dns20160627 : dnsdata pushed: 64000
+2016-07-03 10:49:13,000 DEBUG dns20160627 : dnsdata pushed: 66000
+2016-07-03 10:49:14,234 DEBUG dns20160627 : dnsdata pushed: 68000
+2016-07-03 10:49:15,555 DEBUG dns20160627 : dnsdata pushed: 70000
+2016-07-03 10:49:16,813 DEBUG dns20160627 : dnsdata pushed: 72000
+2016-07-03 10:49:18,263 DEBUG dns20160627 : dnsdata pushed: 74000
+2016-07-03 10:49:19,567 DEBUG dns20160627 : dnsdata pushed: 76000
+2016-07-03 10:49:20,851 DEBUG dns20160627 : dnsdata pushed: 78000
+2016-07-03 10:49:22,117 DEBUG dns20160627 : dnsdata pushed: 80000
+2016-07-03 10:49:23,497 DEBUG dns20160627 : dnsdata pushed: 82000
+2016-07-03 10:49:24,730 DEBUG dns20160627 : dnsdata pushed: 84000
+2016-07-03 10:49:26,048 DEBUG dns20160627 : dnsdata pushed: 86000
+2016-07-03 10:49:27,306 DEBUG dns20160627 : dnsdata pushed: 87632
+2016-07-03 10:49:27,491 DEBUG All done
+2016-07-03 10:49:27,493 DEBUG dns20160627 querydata pushed : 999672
+2016-07-03 10:49:27,494 DEBUG dns20160627 dnsdata pushed : 87632
